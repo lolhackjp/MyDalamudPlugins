@@ -6,7 +6,7 @@
         "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "Changelog": "FFXIV 6.2 Update! Features, Fixes & Enhancements for Framework, Globals, AST, BLU, DNC, DRK, GNB, NIN, NINPvP, RPR and SAM. Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "3.0.17.0",
+        "AssemblyVersion": "3.0.17.1",
         "RepoUrl": "https://github.com/lolhackjp/XIVSlothCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
