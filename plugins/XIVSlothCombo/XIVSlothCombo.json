@@ -5,7 +5,7 @@
   "AssemblyVersion": "3.0.17.0",
   "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
+  "RepoUrl": "https://github.com/lolhackjp/XIVSlothCombo",
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "ImageUrls": [
